@@ -6,5 +6,6 @@
   "client":
   {
     "version":1
-  }
+  },
+  "domain":"http://plugins.ml/"
 }
